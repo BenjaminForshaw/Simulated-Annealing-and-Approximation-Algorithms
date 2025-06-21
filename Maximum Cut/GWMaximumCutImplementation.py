@@ -7,11 +7,6 @@ from matplotlib import pyplot as plt
 import networkx as nx
 import time
 
-'''
-The process of implementing Goemans & Williamson in python has been aided by 'Goemans-Williamson Max-Cut Algorithm | The Practical Guide to Semidefinite Programming (4/4)' by Visually Explained.
-This has also been added as a reference on my dissertation.
-'''
-
 
 ''' Goemans & Williamson approximation ratio of 87% 
 

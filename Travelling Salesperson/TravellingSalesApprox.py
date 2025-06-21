@@ -6,12 +6,6 @@ import time
 
 
 
-
-'''
-The process of implementing Christofides algorthm in python has been aided by 'TSP Christofides algorithm' by Austin Buchanan.
-This has also been added as a reference on my dissertation.
-'''
-
 def approxAlg(completeGraph, positions):
     start_time = time.perf_counter()
 
